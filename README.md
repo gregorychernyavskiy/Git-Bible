@@ -1,10 +1,3 @@
-# Git & GitHub Reference Guide
-
-By: supersimple.dev  
-Tutorial: [YouTube Video](https://www.youtube.com/watch?v=hrTQipWp6co)
-
----
-
 ## **Command Line Basics**
 
 - **`ls`**: List files and folders in the current directory.
